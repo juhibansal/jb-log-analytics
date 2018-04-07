@@ -14,6 +14,6 @@ Main features of solution
 
 - Used distributed systems with RDDs and Dataframes to develop highly scalable solutions.
 
-- Ran a test on 1.5M lines of user information with a run-time of less than 5mins. Due to the restriction of Git, I have tested the code on GBs of data from EdGAR Location, typically it takes around 15-20mins in processing.
+- Ran a test on 50000K lines of user information with a run-time of less than 1mins. Due to the restriction of Git I could not upload larger sample size, I have tested the code on GBs of data from EdGAR Location, typically it takes around 10-15mins in processing.
 
 - I have spent around 3 hours building the solution

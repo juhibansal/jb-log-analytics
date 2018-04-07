@@ -4,7 +4,7 @@ Problem Statement - Purpose of the challenge was to create an aggregate of users
 
 Running the code - ./run.sh
 
-Details of Solution: Code is implemented in Spark using Python (version 3.0) as a Platform. Code is named sessionization.py as required by the challenge a run file (run.sh) is provided to run the scripts.
+Details of Solution: Code is implemented in Spark using Python (version 2.7) as a Platform. Code is named sessionization.py as required by the challenge a run file (run.sh) is provided to run the scripts.
 
 Spark is run using the spark-shell path "/mnt/alpha/3p/spark/bin/spark-submit" which is local the machine needs to be modified based on users environment
 
